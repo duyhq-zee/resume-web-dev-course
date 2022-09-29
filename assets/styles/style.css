@@ -86,7 +86,7 @@ p {
 	float: left;
 	padding-left: 64px;
 	padding-bottom: 64px;
-	height: 1235px;
+	height: 1243px;
 	color: #fff;
 }
 
@@ -224,5 +224,5 @@ p {
 	color: #323b4c;
 	display: inline-block;
 	margin-right: 2px;
-	margin-bottom: 4px;
+	margin-bottom: 8px;
 }

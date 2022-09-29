@@ -34,10 +34,10 @@ p {
 
 #avatar {
 	background-color: #323b4c;
-	width: 40%;
+	width: 35%;
 	float: left;
 
-	padding: 48px 64px;
+	padding: 48px 100px;
 }
 
 #avatar img {
@@ -51,7 +51,7 @@ p {
 
 #intro {
 	background-color: #fff;
-	width: 60%;
+	width: 65%;
 	float: left;
 	padding: 80px 48px 0 48px;
 }
@@ -82,7 +82,7 @@ p {
 
 #left-info {
 	background-color: #323b4c;
-	width: 40%;
+	width: 35%;
 	float: left;
 	padding-left: 64px;
 	padding-bottom: 64px;
@@ -136,7 +136,7 @@ p {
 
 #right-info {
 	background-color: #fff;
-	width: 60%;
+	width: 65%;
 	float: left;
 	padding-left: 48px;
 	padding-right: 48px;

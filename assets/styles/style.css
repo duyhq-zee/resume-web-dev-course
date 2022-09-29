@@ -1,0 +1,228 @@
+*,
+html,
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #f0f0f0;
+	font-family: "Lato", "Kumbh Sans", sans-serif;
+	color: #737373;
+}
+
+.clear {
+	clear: both;
+}
+
+p {
+	line-height: 1.5;
+}
+
+#resume {
+	background-color: #fff;
+
+	width: 1366px;
+	margin: 0 auto;
+}
+
+#basic-info {
+	width: 100%;
+}
+
+#avatar {
+	background-color: #323b4c;
+	width: 40%;
+	float: left;
+
+	padding: 48px 64px;
+}
+
+#avatar img {
+	width: 280px;
+	height: 280px;
+	border-radius: 50%;
+
+	object-fit: cover;
+	object-position: 0 12%;
+}
+
+#intro {
+	background-color: #fff;
+	width: 60%;
+	float: left;
+	padding: 80px 48px 0 48px;
+}
+
+#intro #name {
+	font-size: 4rem;
+
+	color: #323b4c;
+}
+
+#intro #name #last-name {
+	font-weight: 400;
+}
+
+#intro .position {
+	color: #323b4c;
+	font-size: 2rem;
+	font-weight: 400;
+	letter-spacing: 6px;
+	margin-bottom: 16px;
+}
+
+.section {
+	margin-bottom: 40px;
+}
+
+/* LEFT INFO */
+
+#left-info {
+	background-color: #323b4c;
+	width: 40%;
+	float: left;
+	padding-left: 64px;
+	padding-bottom: 64px;
+	height: 1235px;
+	color: #fff;
+}
+
+#left-info h2 {
+	padding-bottom: 8px;
+	border-bottom: 2px solid #fff;
+}
+
+.contact-section h3 {
+	font-family: "Kumbh Sans", sans-serif;
+	font-size: 1.25rem;
+	/* margin-bottom: 4px; */
+}
+
+.contact-section .info {
+	margin-bottom: 16px;
+}
+
+.edu-section .degree {
+	margin-bottom: 24px;
+}
+
+.edu-section h3 {
+	font-size: 1.25rem;
+	margin: 3px 0;
+}
+
+.edu-section .university-name {
+	font-weight: 600;
+}
+
+.expertise-section ul {
+	list-style-position: inside;
+}
+
+.expertise-section ul li {
+	font-size: 1.25rem;
+	margin-bottom: 16px;
+}
+
+.language-section p {
+	font-size: 1.25rem;
+	font-weight: 600;
+}
+
+/* RIGHT INFO */
+
+#right-info {
+	background-color: #fff;
+	width: 60%;
+	float: left;
+	padding-left: 48px;
+	padding-right: 48px;
+	padding-bottom: 64px;
+}
+
+#left-info h2,
+#right-info h2 {
+	font-size: 1.875rem;
+	font-family: "Kumbh Sans", sans-serif;
+	font-weight: 700;
+	letter-spacing: 1px;
+	margin-bottom: 32px;
+}
+
+#right-info h2 {
+	color: #323b4c;
+	padding-bottom: 8px;
+
+	border-bottom: 2px solid #323b4c;
+}
+
+.job-section .job {
+	border-left: 1px solid #323b4c;
+	padding-left: 32px;
+	padding-bottom: 40px;
+
+	position: relative;
+}
+
+.job-section .job:last-child {
+	padding-bottom: 0;
+}
+
+.job-section .job h4 {
+	font-size: 1.25rem;
+	margin-bottom: 4px;
+}
+
+.job-section .job .company {
+	font-size: 1.25rem;
+	margin-bottom: 8px;
+}
+
+.job-section .job h3 {
+	font-size: 1.5rem;
+	margin-bottom: 8px;
+}
+
+.job-section .job h3 {
+	font-size: 1.5rem;
+	margin-bottom: 8px;
+}
+
+.job-section .job .circle {
+	border: 2px solid #323b4c;
+	background-color: #fff;
+	border-radius: 50%;
+	width: 12px;
+	height: 12px;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+
+	transform: translateX(-55%);
+}
+
+.ref-section .ref {
+	float: left;
+	width: 50%;
+}
+
+.ref-section .ref h3 {
+	font-size: 1.5rem;
+	color: #323b4c;
+}
+
+.ref-section .ref .ref-position {
+	font-size: 1.25rem;
+	margin-bottom: 8px;
+}
+
+.ref-section .ref h4 {
+	color: #323b4c;
+	display: inline-block;
+	margin-right: 2px;
+	margin-bottom: 4px;
+}

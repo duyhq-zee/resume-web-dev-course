@@ -24,7 +24,7 @@ p {
 #resume {
 	background-color: #fff;
 
-	width: 1366px;
+	width: 1160px;
 	margin: 0 auto;
 }
 
@@ -75,7 +75,7 @@ p {
 }
 
 .section {
-	margin-bottom: 40px;
+	margin-bottom: 48px;
 }
 
 /* LEFT INFO */
@@ -86,7 +86,7 @@ p {
 	float: left;
 	padding-left: 64px;
 	padding-bottom: 64px;
-	height: 1243px;
+	height: 1331px;
 	color: #fff;
 }
 
@@ -102,16 +102,16 @@ p {
 }
 
 .contact-section .info {
-	margin-bottom: 16px;
+	margin-bottom: 32px;
 }
 
 .edu-section .degree {
-	margin-bottom: 24px;
+	margin-bottom: 32px;
 }
 
 .edu-section h3 {
 	font-size: 1.25rem;
-	margin: 3px 0;
+	margin: 2px 0;
 }
 
 .edu-section .university-name {
@@ -124,12 +124,13 @@ p {
 
 .expertise-section ul li {
 	font-size: 1.25rem;
-	margin-bottom: 16px;
+	margin-bottom: 20px;
 }
 
 .language-section p {
 	font-size: 1.25rem;
 	font-weight: 600;
+	margin-bottom: 16px;
 }
 
 /* RIGHT INFO */
